@@ -1,8 +1,7 @@
 # Error Page
 
-
 Thanks,
 [Sudais Coder](https://www.youtube.com/c/SudaisCoder)
 
 
-![preview](https://github.com/SudaisDeveloper/Error-Page-404/blob/6b07d503ee8b07881397d73a992dd052089b492d/Error%20Page/preview.png)
+![preview](https://github.com/SudaisDeveloper/Error-Page-404/blob/5c853309114f479475787273d361a77096609a33/Error%20Page/preview.png)
