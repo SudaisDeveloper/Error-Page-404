@@ -1,7 +1,7 @@
-# 404-Error-Page-SVG-Animation
+# Error Page SVG Animation
 
 
 Thanks,
 [Sudais Coder](https://www.youtube.com/c/SudaisCoder)
 
-![preview](https://github.com/SudaisDeveloper/Error-Page-404/blob/40c0abd6edb12985128387e7d2dbc91b201a05cd/Aerival%20Error%20Page%20Starter/preview.png)
+![preview](https://github.com/SudaisDeveloper/Error-Page-404/blob/9a84f0a2f5a7e529a89659bceabbe9693008be6c/Error%20Page%20SVG%20Animation/preview.png)
